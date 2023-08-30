@@ -2,6 +2,9 @@
 
 This is a simple implementation of the classic Tic-Tac-Toe game using HTML, CSS, and JavaScript.
 
+![Screenshot](Screenshots/1.jpg)
+
+
 ## How to Play
 
 1. Open the `index.html` file in your preferred web browser.
